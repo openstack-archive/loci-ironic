@@ -1,0 +1,2 @@
+export PROJECT=ironic
+export DISTRO=centos
