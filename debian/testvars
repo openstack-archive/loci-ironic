@@ -1,2 +1,2 @@
-export PROJECT=nova
+export PROJECT=ironic
 export DISTRO=debian
