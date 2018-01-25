@@ -1,5 +1,4 @@
 - project:
-    name: openstack/loci-ironic
     check:
       jobs:
         - noop
